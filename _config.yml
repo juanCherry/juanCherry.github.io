@@ -1,29 +1,29 @@
 # Basic
-title: 袁艺
+title: 蒋梅娟
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: yuanyi
+avatarTitle: juanCherry
 # 头像里面的描述
-avatarDesc: java / 大数据
-url: "https://yuanyi0510.github.io/"
+avatarDesc: web前端
+url: "https://juanCherry.github.io/"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: juanCherry
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
     #weibo: 5366874726
-    github: yuanyi0510
+    github: juanCherry
     # twitter:
-    mail: 17611335107@163.com
+    mail: jiangmj_cherry@163.com
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421
+#baidu:
+#    id: 8ba1c6be0953b6f9c2ba38e57f615421
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
